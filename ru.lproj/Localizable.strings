@@ -1,0 +1,82 @@
+/* Login.strings
+  cx4i
+
+  Created by Evgeniy Ilyin on 11.12.16. */
+"UsernamePlaceholder" = "Имя пользователя";
+"CXOT_UsernamePlaceholder" = "Телефон или почта";
+"PasswordPlaceholder" = "Пароль";
+"CXOT_PasswordPlaceholder" = "";
+"SavePassword" = "Сохранить пароль";
+"CXOT_SavePassword" = "";
+"SignInButtonTitle" = "Войти в систему";
+"ForgotButtonTitle" = "Забыли пароль ???";
+"TermsAndConditionsHtml" = "Регистрируясь, вы соглашаетесь с нашими <l> Условиями использования </l> и <l> EULA </l> . Вы должны использовать это приложение только тогда, когда это безопасно и законно.";
+"CreateByTitle" = "Создано ООО «Транспортная биржа Груп» 2000- %@";
+"CXNA_CreateByTitle" = "";
+"UsernameEmpty" = "Логин не может быть пустым";
+"PasswordEmpty" = "Пароль не может быть пустым";
+"CXOT_UsernameEmpty" = "";
+"CXOT_PasswordEmpty" = "";
+"LoginModelEmpty" = "Логин не может быть пустым";
+"AuthFailCode" = "Ошибка аутентификации, код ошибки \"% ld\"";
+"ForgottenPasswordErrorMessage" = "Вы, кажется, ввели неправильное имя пользователя или пароль. Пожалуйста, проверьте и попробуйте снова или используйте ссылку забытого пароля ниже.";
+"CXOT_ForgottenPasswordErrorMessage" = "";
+"ConnectionErrorNetwork" = "Невозможно подключиться: вам нужно сетевое подключение, чтобы использовать это приложение. Пожалуйста, включите мобильную сеть или WI-FI в настройках.";
+"CXOT_GetOrder" = "";
+"TitleCXDriver" = "Водитель СХ ";
+/* Dashboard.strings
+  cx4i
+
+  Created by EvGeniy Lell on 11.07.16. */
+"TitleCXNow" = "";
+"CXNW_TitleCXNow" = "";
+"CXNW_TitleCXDriver" = "CX Малый Флот";
+"WLMC_TitleCXNow" = "";
+"WLMC_TitleCXDriver" = "Домашняя страница";
+"GoingHomeTitle" = "+ Домой";
+"GoingToTitle" = "+ Собираюсь";
+"FutureJourneyTitle" = "+ Будущее путешествие";
+"AlertsTitle" = "Оповещения";
+"LoadQuotesTitle" = "Мои ставки";
+"BookingsTitle" = "Заказы";
+"CXNA_BookingsTitle" = "Заказы";
+"MessengerTitle" = "Месенджер";
+"ConnectionRequestTitle" = "";
+"MyJourneysTitle" = "Мои путешествия";
+"CXNW_MyJourneysTitle" = "Наши Путешествия";
+"WhosNearbyTitle" = "Кто рядом?";
+"MyFleetTitle" = "Мой флот";
+"LiveCapacityTitle" = "Поиск в реальном времени";
+"BookDirectTitle" = "Прямое бронирование";
+"FuturePositionTitle" = "+ Будущая позиция";
+"MyFuturePositionsTitle" = "Мои будущие позиции";
+"WhereAmITitle" = "Где я?";
+"CXOT_WhereAmITitle" = "Просмотр карты";
+"ArrivedAtBorderTitle" = "Прибыл на границу";
+"DepartedBorderTitle" = "Покинули Границы";
+"AtBorder" = "На границе";
+"TrackingTitle" = "Отслеживание";
+"VehicleTitle" = "Автомобиль:";
+"StatusTitle" = "Статус:";
+"PopupTrackingOffTitle" = "Вы уверены, что хотите отключить отслеживание для %@ ?";
+"ChooseVehicleFirst" = "Пожалуйста, сначала выберите автомобиль";
+/* Vehicle */
+"Vehicle.AvailabilityWait" = "Пожалуйста, подождите ...";
+"Vehicle.ChangeFailed" = "Не могу сменить автомобиль. Причина: %@";
+"Vehicle.ReasonFailedStopTracking" = "Ошибка отслеживания остановки";
+"Vehicle.NoVehicle" = "Нет автомобиля";
+"Vehicle.ResponceNotVehicles" = "У вас нет транспортных средств";
+/* Tracking */
+"Tracking.StartFailed" = "Не могу остановить отслеживание. Причина: %@";
+"Tracking.StopFailed" = "Не могу остановить отслеживание. Причина: %@";
+"Tracking.ReasonResultMissing" = "Результат отсутствует";
+"Tracking.SendLocationAlertTitle" = "Отправить местоположение";
+"Tracking.SendLocationAlertError" = "Ошибка: %@";
+/* Tracking Cell */
+"TrackingCell.StatusOff" = "Выкл";
+"TrackingCell.StatusOn" = "Включен";
+"TrackingCell.TrackingOnMobile" = "мобильный";
+/* Tracking Menu */
+"TrackingMenu.UseIntegration" = "Использовать интегрированное отслеживание";
+"TrackingMenu.UseMobile" = "Отслеживание мобильного приложения CX";
+"TrackingMenu.TurnOff" = "Выключить Отслеживание";
